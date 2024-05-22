@@ -1,0 +1,30 @@
+.booking-status-container{
+    background-image: url("https://wallpaperaccess.com/full/2690549.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 350px;
+    color: white;
+    padding-top: 10%;
+}
+
+.booking-status-container h1{
+    padding-bottom: 10px;
+}
+
+.Bookingsstatuscontainer{
+    margin-top: 5%;
+}
+
+.Bookingsstatuscontainer button{
+    background-color: white;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.Bookingsstatuscontainer button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

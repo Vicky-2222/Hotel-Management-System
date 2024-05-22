@@ -1,0 +1,25 @@
+.hotels{
+    background-image: url("https://wallpaperaccess.com/full/2690549.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 460px;
+}
+.hotel-list:hover{
+    color: white;
+    background-color: black;
+}
+.hotel-list{
+    background-color: white;
+    color: black;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    margin: 20px;
+    margin-top: 50px;
+}
+.hotels h1{
+    padding-top: 20px;
+}

@@ -1,0 +1,44 @@
+.allbookingmain{
+    background-image: url("https://wallpaperaccess.com/full/2690549.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 460px;
+}
+.bookingheading{
+    color: white;
+    padding-top:10px ;
+}
+
+.allbookingcard{
+    display: inline-block;
+}
+.card-body{
+    border: 2px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    background-color: rgba(202, 231, 247, 0.909);
+    margin-top: 20px;
+}
+.card-body h3{
+    padding-bottom: 2px;
+}
+
+.allbookingmain button{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+.allbookingmain button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

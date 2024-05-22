@@ -1,0 +1,42 @@
+.roomsmain{
+    background-image: url("https://wallpaperaccess.com/full/2690549.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 460px;
+}
+.rooms-card{
+    border: 2px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    margin: 20px;
+    background-color: rgba(202, 231, 247, 0.909);
+    margin-top: 50px;
+    padding:10px;
+    height: 90px;
+    width: 250px
+}
+.rooms-card span{
+    margin: 10px;
+}
+
+.roomList{
+    color: white;
+    padding-top: 30px;
+}
+.rooms-cards button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.rooms-cards button{
+    border: 1px;
+    border-radius: 7px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+    margin-top: 20px;
+}
